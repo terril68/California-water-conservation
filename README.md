@@ -1,9 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-} 
+
 # Climate change's impact on water in California
 For this class project, I wanted to look at the water conservation efforts in California during droughts. To find out, I downloaded and analyzed the monthly urban water supplier reports on potable water production and consumption from the state's water boards. I compared water production and R-GPCD, which stands for residential gallons per capita per day, from 2014 to 2022. I first looked at the statewide data and then zoomed in on water consumption of each of California's 10 hydrologic regions. I found out that water production is positively correlated with water consumption. In other words, both water production and usage increase during warmer periods. This makes me wonder how effective mandatory restrictions are in curbing water usage.
 # My data collection process
